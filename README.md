@@ -12,3 +12,4 @@ Untracked files:
 	README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+Выполнено задание
